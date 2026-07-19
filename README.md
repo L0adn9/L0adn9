@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/jeantimex/neofetch-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=L0adn9&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FL0adn9%2FL0adn9%2Fmain%2Fneofetch.json">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=L0adn9&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FL0adn9%2FL0adn9%2Fmain%2Fneofetch.json%3Fv%3D2&v=2>
       <img alt="abdullah@github" src="https://neofetch-profile.vercel.app/api?username=L0adn9&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FL0adn9%2FL0adn9%2Fmain%2Fneofetch.json">
     </picture>
   </a>
