@@ -1,0 +1,85 @@
+{
+  "image": "https://raw.githubusercontent.com/L0adn9/L0adn9/main/tux.png",
+  "coloredImage": true,
+  "removeBackground": true,
+  "stats": {
+    "enabled": false
+  },
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Muhammad Abdullah"
+        },
+        {
+          "key": "Location",
+          "value": "Kuala Lumpur, Malaysia"
+        },
+        {
+          "key": "Studying",
+          "value": "Computer Science (AI), APU"
+        },
+        {
+          "key": "Working",
+          "value": "R&D Software Engineer, APU CTI"
+        },
+        {
+          "key": "Since",
+          "value": "November 2024"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Writes",
+          "value": "Python, C#, SQL, Java, TypeScript"
+        },
+        {
+          "key": "Builds with",
+          "value": "Angular, Flask, Tensorflow"
+        },
+        {
+          "key": "Runs on",
+          "value": "Docker, Git, arch"
+        },
+        {
+          "key": "Automates with",
+          "value": "n8n"
+        }
+      ]
+    },
+    {
+      "title": "- Interests",
+      "fields": [
+        {
+          "key": "Reading up on",
+          "value": "transformers, automation"
+        },
+        {
+          "key": "Away from screen",
+          "value": "travel, tech conferences"
+        },
+        {
+          "key": "Speaks",
+          "value": "English, Urdu, some Arabic"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        {
+          "key": "Email",
+          "value": "abdullah09.link@gmail.com"
+        },
+        {
+          "key": "LinkedIn",
+          "value": "linkedin.com/in/mabdullah-ai"
+        }
+      ]
+    }
+  ]
+}
