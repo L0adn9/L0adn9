@@ -39,11 +39,11 @@
         },
         {
           "key": "Builds with",
-          "value": "PyTorch, TensorFlow, Flask, Angular"
+          "value": "Angular, Flask, Tensorflow"
         },
         {
           "key": "Runs on",
-          "value": "RHEL Linux, Docker, Git"
+          "value": "Docker, Git, arch"
         },
         {
           "key": "Automates with",
